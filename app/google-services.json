@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "123941869944",
+    "firebase_url": "https://dr-mn-lal.firebaseio.com",
+    "project_id": "dr-mn-lal",
+    "storage_bucket": "dr-mn-lal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123941869944:android:ff35ae13932925b6ed908d",
+        "android_client_info": {
+          "package_name": "com.mubashir.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "123941869944-2v1s5djievb8ouns5mffmk296sern7pn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mubashir.myapplication",
+            "certificate_hash": "fd80471a317d64b463ae224900f3a234ad74c1b3"
+          }
+        },
+        {
+          "client_id": "123941869944-b2c09mehpaa319tveb2ripurb8nrkhsl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChGWsJtZydSCycOL-g77TyZHrCHtc3t4Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "123941869944-b2c09mehpaa319tveb2ripurb8nrkhsl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
